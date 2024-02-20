@@ -1,0 +1,11 @@
+C:\Users\luis2\Desktop\Programación de Computadoras 2\202109710_Primer examen parcial 0092\Ejercicio 1_202109710\Ejercicio 1_202109710\bin\Debug\Ejercicio 1_202109710.exe.config
+C:\Users\luis2\Desktop\Programación de Computadoras 2\202109710_Primer examen parcial 0092\Ejercicio 1_202109710\Ejercicio 1_202109710\bin\Debug\Ejercicio 1_202109710.exe
+C:\Users\luis2\Desktop\Programación de Computadoras 2\202109710_Primer examen parcial 0092\Ejercicio 1_202109710\Ejercicio 1_202109710\bin\Debug\Ejercicio 1_202109710.pdb
+C:\Users\luis2\Desktop\Programación de Computadoras 2\202109710_Primer examen parcial 0092\Ejercicio 1_202109710\Ejercicio 1_202109710\bin\Debug\Ejercicio 1_202109710.xml
+C:\Users\luis2\Desktop\Programación de Computadoras 2\202109710_Primer examen parcial 0092\Ejercicio 1_202109710\Ejercicio 1_202109710\obj\Debug\Ejercicio 1_202109710.vbproj.AssemblyReference.cache
+C:\Users\luis2\Desktop\Programación de Computadoras 2\202109710_Primer examen parcial 0092\Ejercicio 1_202109710\Ejercicio 1_202109710\obj\Debug\Ejercicio_1_202109710.Resources.resources
+C:\Users\luis2\Desktop\Programación de Computadoras 2\202109710_Primer examen parcial 0092\Ejercicio 1_202109710\Ejercicio 1_202109710\obj\Debug\Ejercicio 1_202109710.vbproj.GenerateResource.cache
+C:\Users\luis2\Desktop\Programación de Computadoras 2\202109710_Primer examen parcial 0092\Ejercicio 1_202109710\Ejercicio 1_202109710\obj\Debug\Ejercicio 1_202109710.vbproj.CoreCompileInputs.cache
+C:\Users\luis2\Desktop\Programación de Computadoras 2\202109710_Primer examen parcial 0092\Ejercicio 1_202109710\Ejercicio 1_202109710\obj\Debug\Ejercicio 1_202109710.exe
+C:\Users\luis2\Desktop\Programación de Computadoras 2\202109710_Primer examen parcial 0092\Ejercicio 1_202109710\Ejercicio 1_202109710\obj\Debug\Ejercicio 1_202109710.xml
+C:\Users\luis2\Desktop\Programación de Computadoras 2\202109710_Primer examen parcial 0092\Ejercicio 1_202109710\Ejercicio 1_202109710\obj\Debug\Ejercicio 1_202109710.pdb
